@@ -102,7 +102,7 @@ const scenes = {
     ]
   },
   wrongAnswer5: {
-    text: "Hmm... não foi bem isso. Tente novamente!",
+    text: "Essa não é a resposta certa... Tente novamente!",
     choices: [
       { text: "Voltar", nextScene: "question5" }
     ]
@@ -117,7 +117,7 @@ const scenes = {
     ]
   },
   wrongAnswer6: {
-    text: "Hmm... não foi bem isso. Tente novamente!",
+    text: "Quase... mas não foi isso! Tente novamente!",
     choices: [
       { text: "Voltar", nextScene: "question6" }
     ]
@@ -149,7 +149,7 @@ const scenes = {
     ]
   },
   wrongAnswer8: {
-    text: "Hmm... não foi bem isso. Tente novamente!",
+    text: "Essa não é a resposta certa... Tente novamente!",
     choices: [
       { text: "Voltar", nextScene: "question8" }
     ]
@@ -165,7 +165,7 @@ const scenes = {
     ]
   },
   wrongAnswer9: {
-    text: "Hmm... não foi bem isso. Tente novamente!",
+    text: "Quase... mas não foi isso! Tente novamente!",
     choices: [
       { text: "Voltar", nextScene: "question9" }
     ]
